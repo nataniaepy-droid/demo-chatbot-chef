@@ -4,3 +4,5 @@ google-genai>=1.0.0
 langchain-google-genai>=2.1.0
 langgraph>=0.0.30
 langchain>=0.1.0
+google-genai
+pypdf
